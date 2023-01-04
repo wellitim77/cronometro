@@ -1,0 +1,2 @@
+# cronometro
+cronometro React-Native
